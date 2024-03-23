@@ -5,15 +5,8 @@
 
 <h1 align="center">Olá, meu nome é Matheus Falcão de Almeida</h1>
 
-<style>
-  .info {
-    display: flex;
-    align-items: center;
-  }
-</style>
-
 <h2>DADOS PESSOAIS</h2>
-<div class="info">
+<div style="display: flex; align-items: center;">
   <p>
     <strong>Nome:</strong> Matheus Falcão de Almeida<br>
     <strong>Idade:</strong> 19 anos<br>
@@ -26,5 +19,5 @@
     <strong>Telefone:</strong> Vivo - 48-98876-8451<br>
     <strong>E-mail:</strong> <a href="mailto:falcaomatheu08@gmail.com">falcaomatheu08@gmail.com</a>
   </p>
-  <img src="anime3.gif" height="200">
+  <img src="anime3.gif" height="300" style="margin-left: 20px;">
 </div>
