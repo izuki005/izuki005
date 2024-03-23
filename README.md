@@ -72,3 +72,18 @@
 <ul>
   <li>Construção de análises, relatórios e painéis (dashboards).</li>
 </ul>
+
+<h1 align="center"> CONTATOS</h1>
+ <img align="right" src="imgs/cellphone.gif" alt="GIF"  height="250">
+
+<div align="left">
+  <a href="mailto:falcaomatheus08@gmail.com">
+    <img style="margin-right: 20px;" alt="Gmail"  height="70" src="imgs/gmail.png" />
+  </a>
+  <br>
+  <br>
+  <br>
+  <a href="https://www.linkedin.com/in/matheus-falc%C3%A3o-de-almeida-a96087262/">
+    <img alt="Linkedin" height="70" src="imgs/linkedin.png" />
+  </a>
+</div>
