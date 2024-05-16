@@ -3,7 +3,7 @@
 </p>
 
 
-<h1 align="center">Olá, meu nome é Matheus Falcão de Almeida</h1>                                                                                                |
+<h1 align="center">Olá, meu nome é Matheus Falcão de Almeida</h1>                                                                                                
 
 <p align="center">
   <a href="https://github.com/izuki005"><img src="https://github-readme-stats.vercel.app/api?username=izuki005&hide_border=true&show_icons=true&theme=radical" alt="Matheus Falcão github stats"></a>
